@@ -40,7 +40,7 @@ export default function About() {
 					rel="noreferrer noopener"
 					copyable
 					target="_blank"
-					href="https://condorheroblog.github.io/react-antd-admin/"
+					href="https://Ducr.github.io/react-antd-admin/"
 				>
 					{t("common.view")}
 				</Link>
@@ -54,7 +54,7 @@ export default function About() {
 					rel="noreferrer noopener"
 					copyable
 					target="_blank"
-					href="https://condorheroblog.github.io/react-antd-admin/docs/"
+					href="https://Ducr.github.io/react-antd-admin/docs/"
 				>
 					{t("common.view")}
 				</Link>
@@ -68,7 +68,7 @@ export default function About() {
 					rel="noreferrer noopener"
 					copyable
 					target="_blank"
-					href="https://github.com/condorheroblog/react-antd-admin"
+					href="https://github.com/Ducr/react-antd-admin"
 				>
 					{import.meta.env.VITE_GLOB_APP_TITLE}
 				</Link>
@@ -81,7 +81,7 @@ export default function About() {
 				<Link
 					rel="noreferrer noopener"
 					target="_blank"
-					href="https://github.com/condorheroblog/"
+					href="https://github.com/Ducr/"
 				>
 					{__APP_INFO__.pkg.author}
 				</Link>

@@ -40,4 +40,4 @@
 
 当然你也可以随意修改成扁平风格。
 
-更多内容请查看 [国际化章节](https://condorheroblog.github.io/react-antd-admin/docs/zh/guide/advanced/locale)。
+更多内容请查看 [国际化章节](https://Ducr.github.io/react-antd-admin/docs/zh/guide/advanced/locale)。

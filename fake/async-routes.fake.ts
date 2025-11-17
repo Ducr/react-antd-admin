@@ -126,7 +126,7 @@ const outsideRouter = {
 					handle: {
 						icon: "ContainerOutlined",
 						title: "common.menu.projectDocs",
-						iframeLink: "https://condorheroblog.github.io/react-antd-admin/docs/",
+						iframeLink: "https://Ducr.github.io/react-antd-admin/docs/",
 					},
 				},
 			],

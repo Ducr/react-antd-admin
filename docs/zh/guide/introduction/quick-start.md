@@ -24,15 +24,15 @@ git -v
 
 ### 获取源码
 
-> 点击直接创建模版项目：[使用这个模板创建仓库](https://github.com/new?template_name=react-antd-admin&template_owner=condorheroblog)
+> 点击直接创建模版项目：[使用这个模板创建仓库](https://github.com/new?template_name=react-antd-admin&template_owner=Ducr)
 
 手动获取源码的方式如下：
 
 ::: code-group
 
 ```sh [GitHub]
-npx degit condorheroblog/react-antd-admin react-antd-admin
-# or npx giget@latest gh:condorheroblog/react-antd-admin react-antd-admin
+npx degit Ducr/react-antd-admin react-antd-admin
+# or npx giget@latest gh:Ducr/react-antd-admin react-antd-admin
 ```
 
 :::

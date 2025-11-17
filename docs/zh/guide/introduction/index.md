@@ -16,7 +16,7 @@ react-antd-admin 是一个基于 React Hooks、Vite、TypeScript 和 antd 搭建
 - [@tanstack/react-query](https://tanstack.com/query/latest/docs/framework/react/overview)
 - [ESLint Flat Config](https://eslint.org/docs/latest/use/configure/configuration-files-new/)
 - [KeepAlive](https://github.com/irychen/keepalive-for-react)
-- [Mock Data](https://github.com/condorheroblog/vite-plugin-fake-server)
+- [Mock Data](https://github.com/Ducr/vite-plugin-fake-server)
 
 ## 浏览器支持
 

@@ -43,7 +43,7 @@ const routes: AppRouteRecordRaw[] = [
 						handle: {
 							icon: createElement(ContainerOutlined),
 							title: $t("common.menu.projectDocs"),
-							iframeLink: "https://condorheroblog.github.io/react-antd-admin/docs/",
+							iframeLink: "https://Ducr.github.io/react-antd-admin/docs/",
 						},
 					},
 				],

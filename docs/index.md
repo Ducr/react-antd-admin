@@ -14,10 +14,10 @@ hero:
       link: /zh/guide/introduction/quick-start/
     - theme: alt
       text: 在线预览
-      link: https://condorheroblog.github.io/react-antd-admin/
+      link: https://Ducr.github.io/react-antd-admin/
     - theme: alt
       text: 在 GitHub 查看
-      link: https://github.com/condorheroblog/react-antd-admin
+      link: https://github.com/Ducr/react-antd-admin
 
 features:
   - icon: 🚀

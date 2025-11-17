@@ -4,12 +4,12 @@
 
 ![app-loading](/public/guide/app-loading.png)
 
-> 代码在 [app-loading](https://github.com/condorheroblog/react-antd-admin/tree/main/src/plugins/loading.ts)
+> 代码在 [app-loading](https://github.com/Ducr/react-antd-admin/tree/main/src/plugins/loading.ts)
 
 ::: info 特此声明
 
 loading 效果的代码属于 pure-admin
-点击查看：https://github.com/pure-admin/vue-pure-admin/blob/cd21f1e050011d8f761094bf8a1e110fb8a33959/index.html#L20-L81
+点击查看：<https://github.com/pure-admin/vue-pure-admin/blob/cd21f1e050011d8f761094bf8a1e110fb8a33959/index.html#L20-L81>
 
 :::
 
@@ -27,7 +27,7 @@ loading 效果的代码属于 pure-admin
 
 ## Loading2
 
-在 [/src/plugins/loading.ts](https://github.com/condorheroblog/react-antd-admin/tree/main/src/plugins/loading2.ts) 中提供了另一种 loading 效果。
+在 [/src/plugins/loading.ts](https://github.com/Ducr/react-antd-admin/tree/main/src/plugins/loading2.ts) 中提供了另一种 loading 效果。
 
 ![app-loading2](/public/guide/app-loading2.png)
 
@@ -51,4 +51,4 @@ loading 效果的代码属于 pure-admin
 
 代码非常的简单，引入插件反而比较复杂。
 
-请自行决定，链接在此：https://github.com/hooray/vite-plugin-app-loading
+请自行决定，链接在此：<https://github.com/hooray/vite-plugin-app-loading>

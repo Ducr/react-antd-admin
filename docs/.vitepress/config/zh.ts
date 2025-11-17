@@ -13,13 +13,13 @@ export const zh = defineConfig({
 		},
 
 		editLink: {
-			pattern: "https://github.com/condorheroblog/react-antd-admin/edit/main/docs/:path",
+			pattern: "https://github.com/Ducr/react-antd-admin/edit/main/docs/:path",
 			text: "在 GitHub 上编辑此页面",
 		},
 
 		footer: {
 			message: "基于 MIT 许可发布",
-			copyright: `版权所有 © 2023-${new Date().getFullYear()} CondorHero`,
+			copyright: `版权所有 © 2025-${new Date().getFullYear()} Ducr`,
 		},
 
 		docFooter: {
@@ -52,7 +52,7 @@ function nav(): DefaultTheme.NavItem[] {
 	return [
 		{
 			text: "在线预览",
-			link: "https://condorheroblog.github.io/react-antd-admin/",
+			link: "https://Ducr.github.io/react-antd-admin/",
 		},
 		{
 			text: "指南",

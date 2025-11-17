@@ -63,8 +63,8 @@ export const DEFAULT_PREFERENCES = {
 	/* ================== Footer ================== */
 	enableFooter: true,
 	fixedFooter: true,
-	companyName: "Condor Hero",
-	companyWebsite: "http://github.com/condorheroblog/",
+	companyName: "Ducr",
+	companyWebsite: "http://github.com/Ducr/",
 	copyrightDate: "2023",
 	ICPNumber: "",
 	ICPLink: "",

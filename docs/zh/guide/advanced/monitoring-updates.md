@@ -17,7 +17,7 @@ export const DEFAULT_PREFERENCES = {
 } satisfies PreferencesState;
 ```
 
-> 代码在 [version-monitor](https://github.com/condorheroblog/react-antd-admin/tree/main/src/layout/widgets/version-monitor/index.tsx)
+> 代码在 [version-monitor](https://github.com/Ducr/react-antd-admin/tree/main/src/layout/widgets/version-monitor/index.tsx)
 
 ## 效果
 

@@ -2,7 +2,7 @@
 
 ::: tip 注意
 这里汇总了一些常见问题。
-若未找到答案，可在 [GitHub Issue](https://github.com/condorheroblog/react-antd-admin/issues) 中搜索或提交新问题；如需讨论，欢迎前往 [GitHub Discussions](https://github.com/condorheroblog/react-antd-admin/discussions)。
+若未找到答案，可在 [GitHub Issue](https://github.com/Ducr/react-antd-admin/issues) 中搜索或提交新问题；如需讨论，欢迎前往 [GitHub Discussions](https://github.com/Ducr/react-antd-admin/discussions)。
 :::
 
 ## HMR 热更新无效 {#hmr-invalid}
@@ -13,5 +13,6 @@
 2. 运行命令 `npm run check-circular-dependency` 来检查循环依赖。
 
 > 更多信息参考：
+>
 > 1. [A full reload happens instead of HMR](https://vite.dev/guide/troubleshooting#a-full-reload-happens-instead-of-hmr)
-> 2. [react-antd-admin 有哪些文件会触发循环依赖？](https://github.com/condorheroblog/react-antd-admin/issues/11#issuecomment-3514962397)
+> 2. [react-antd-admin 有哪些文件会触发循环依赖？](https://github.com/Ducr/react-antd-admin/issues/11#issuecomment-3514962397)

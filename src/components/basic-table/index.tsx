@@ -45,7 +45,7 @@ export function BasicTable<
 	} = usePreferencesStore();
 	/**
 	 * @description 动态表格中为什么设置 scrollY 为 initial
-	 * @see https://gist.github.com/condorheroblog/557c18c61084a1296b716bcb1203315e
+	 * @see https://gist.github.com/Ducr/557c18c61084a1296b716bcb1203315e
 	 */
 	const [scrollY, setScrollY] = useState<number | string | undefined>(adaptive ? "initial" : undefined);
 

@@ -27,7 +27,7 @@ export const shared = defineConfig({
 	},
 
 	sitemap: {
-		hostname: "https://condorheroblog.github.io/react-antd-admin",
+		hostname: "https://Ducr.github.io/react-antd-admin",
 		transformItems(items) {
 			return items.filter(item => !item.url.includes("migration"));
 		},
@@ -42,8 +42,8 @@ export const shared = defineConfig({
 		["meta", { property: "og:locale", content: "en" }],
 		["meta", { property: "og:title", content: "React Antd Admin | 企业级管理系统框架" }],
 		["meta", { property: "og:site_name", content: "React Antd Admin" }],
-		["meta", { property: "og:image", content: "https://condorheroblog.github.io/react-antd-admin/docs/shared-og.png" }],
-		["meta", { property: "og:url", content: "https://condorheroblog.github.io/react-antd-admin/" }],
+		["meta", { property: "og:image", content: "https://Ducr.github.io/react-antd-admin/docs/shared-og.png" }],
+		["meta", { property: "og:url", content: "https://Ducr.github.io/react-antd-admin/" }],
 	],
 
 	themeConfig: {
@@ -51,7 +51,7 @@ export const shared = defineConfig({
 		logo: { src: "/logo.svg", width: 24, height: 24 },
 
 		socialLinks: [
-			{ icon: "github", link: "https://github.com/condorheroblog/react-antd-admin" },
+			{ icon: "github", link: "https://github.com/Ducr/react-antd-admin" },
 		],
 
 		search: {

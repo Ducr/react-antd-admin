@@ -1,6 +1,6 @@
 # 标签页 {#tab}
 
-标签页的代码逻辑在 [`src/store/tabs.ts`](https://github.com/condorheroblog/react-antd-admin/blob/main/src/store/tabs.ts) 文件中。
+标签页的代码逻辑在 [`src/store/tabs.ts`](https://github.com/Ducr/react-antd-admin/blob/main/src/store/tabs.ts) 文件中。
 
 ## 标签页的存储方式
 
@@ -8,7 +8,7 @@
 
 ## 修改标签页的存储方式
 
-如果需要修改持久化存储的方式，在 [`src/store/tabs.ts`](https://github.com/condorheroblog/react-antd-admin/blob/main/src/store/tabs.ts) 中搜索 sessionStorage 替换为 localStorage 即可。
+如果需要修改持久化存储的方式，在 [`src/store/tabs.ts`](https://github.com/Ducr/react-antd-admin/blob/main/src/store/tabs.ts) 中搜索 sessionStorage 替换为 localStorage 即可。
 
 ## 修改当前标签页的标题
 

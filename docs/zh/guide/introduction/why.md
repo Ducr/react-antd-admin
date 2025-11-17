@@ -25,8 +25,8 @@ UmiJS 是一个非常优秀的框架，但是它太重了，自己封装了很�
 
 ### React 框架
 
-点击查看目录：[React Template](https://github.com/stars/condorheroblog/lists/react-template)
+点击查看目录：[React Template](https://github.com/stars/Ducr/lists/react-template)
 
 ### Vue 框架
 
-点击查看目录：[Vue Template](https://github.com/stars/condorheroblog/lists/vue-template)
+点击查看目录：[Vue Template](https://github.com/stars/Ducr/lists/vue-template)

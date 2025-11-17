@@ -376,7 +376,7 @@ export const useTabsStore = create<TabsState & TabsAction>()(
 			 * 假如页面路由为 /home
 			 * 手动在地址栏输入 /about
 			 * activeKey 仍为 /home 导致 src/layout/layout-tabbar/index.tsx 的自动导航功能失效
-			 * @see https://github.com/condorheroblog/react-antd-admin/issues/1
+			 * @see https://github.com/Ducr/react-antd-admin/issues/1
 			 */
 			partialize: (state) => {
 				return Object.fromEntries(

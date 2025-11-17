@@ -4,7 +4,7 @@ outline: [2, 6]
 
 # 权限 {#access}
 
-> 在线体验，请访问： https://condorheroblog.github.io/react-antd-admin/access/page-control
+> 在线体验，请访问： <https://Ducr.github.io/react-antd-admin/access/page-control>
 
 项目的权限基于 RBAC（Role-based access control） 进行设计，如果你对 RBAC 不熟悉，自行查找相关资料进行学习。
 
@@ -12,17 +12,17 @@ outline: [2, 6]
 
 项目模拟了两个用户，分别为：
 
-- [管理员](https://github.com/condorheroblog/react-antd-admin/blob/9bfbd987341e14e61757885a7426b0f88481f78c/fake/user.fake.ts#L21) - 用户名和角色为 admin
+- [管理员](https://github.com/Ducr/react-antd-admin/blob/9bfbd987341e14e61757885a7426b0f88481f78c/fake/user.fake.ts#L21) - 用户名和角色为 admin
 
-- [普通用户](https://github.com/condorheroblog/react-antd-admin/blob/9bfbd987341e14e61757885a7426b0f88481f78c/fake/user.fake.ts#L33) - 用户名和角色为 common
+- [普通用户](https://github.com/Ducr/react-antd-admin/blob/9bfbd987341e14e61757885a7426b0f88481f78c/fake/user.fake.ts#L33) - 用户名和角色为 common
 
 ## 角色
 
 项目模拟了两个角色，分别为：
 
-- [admin](https://github.com/condorheroblog/react-antd-admin/blob/9bfbd987341e14e61757885a7426b0f88481f78c/fake/user.fake.ts#L21)
+- [admin](https://github.com/Ducr/react-antd-admin/blob/9bfbd987341e14e61757885a7426b0f88481f78c/fake/user.fake.ts#L21)
 
-- [common](https://github.com/condorheroblog/react-antd-admin/blob/9bfbd987341e14e61757885a7426b0f88481f78c/fake/user.fake.ts#L33)
+- [common](https://github.com/Ducr/react-antd-admin/blob/9bfbd987341e14e61757885a7426b0f88481f78c/fake/user.fake.ts#L33)
 
 ## 权限的获取方式
 
@@ -122,7 +122,7 @@ export const DEFAULT_PREFERENCES = {
 
 2. 确保后端接口返回的菜单数据结构正确
 
-后端返回的菜单数据结构可以在这个文件中查看：[`fake/async-routes.fake.ts`](https://github.com/condorheroblog/react-antd-admin/blob/9bfbd987341e14e61757885a7426b0f88481f78c/fake/async-routes.fake.ts)
+后端返回的菜单数据结构可以在这个文件中查看：[`fake/async-routes.fake.ts`](https://github.com/Ducr/react-antd-admin/blob/9bfbd987341e14e61757885a7426b0f88481f78c/fake/async-routes.fake.ts)
 
 下面是一个典型的权限格式案例。
 
@@ -424,7 +424,7 @@ export function AccessDemo() {
 			<AccessControl type="role" codes={[AccessControlRoles.admin, AccessControlRoles.common]}>
 				<Typography.Text code>
 					{t("access.adminVisible.title")}
-					&nbsp;&&nbsp;
+     &nbsp;&&nbsp;
 					{t("access.commonVisible.title")}
 				</Typography.Text>
 			</AccessControl>
@@ -467,7 +467,7 @@ export function AccessDemo() {
 				hasAccessByRoles([AccessControlRoles.admin, AccessControlRoles.common]) && (
 					<Typography.Text code>
 						{t("access.adminVisible.title")}
-						&nbsp;&&nbsp;
+      &nbsp;&&nbsp;
 						{t("access.commonVisible.title")}
 					</Typography.Text>
 				)
