@@ -106,4 +106,4 @@ pnpm preview
 
 ## License
 
-[MIT](https://github.com/Ducr/react-antd-admin/blob/main/LICENSE) License © 2023-Present [Ducr](https://github.com/Ducr)
+[MIT](https://github.com/Ducr/react-antd-admin/blob/main/LICENSE) License © 2025-Present [Ducr](https://github.com/Ducr)

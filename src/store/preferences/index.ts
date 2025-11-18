@@ -65,7 +65,7 @@ export const DEFAULT_PREFERENCES = {
 	fixedFooter: true,
 	companyName: "Ducr",
 	companyWebsite: "http://github.com/Ducr/",
-	copyrightDate: "2023",
+	copyrightDate: "2025",
 	ICPNumber: "",
 	ICPLink: "",
 } satisfies PreferencesState;
