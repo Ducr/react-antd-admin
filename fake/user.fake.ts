@@ -13,7 +13,7 @@ export default defineFakeRoute([
 			if (headers.authorization?.split?.(" ")?.[1] === ADMIN_TOKEN) {
 				return resultSuccess({
 					id: 1,
-					avatar: "https://avatars.githubusercontent.com/u/47056890",
+					avatar: "https://avatars.githubusercontent.com/u/51541185",
 					username: "Admin",
 					email: "<EMAIL>",
 					phoneNumber: "1234567890",
