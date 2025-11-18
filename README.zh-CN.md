@@ -15,7 +15,7 @@
 
 ## 介绍
 
-react-antd-admin 是一个基于 React Hooks、Vite 和 TypeScript 的中后台解决方案。它旨在帮助您快速搭建企业级中后台项目，无需额外配置，开箱即用。
+基于 react-antd-admin 后台管理系统的二次开发。react-antd-admin 是一个基于 React Hooks、Vite 和 TypeScript 的中后台解决方案。它旨在帮助您快速搭建企业级中后台项目，无需额外配置，开箱即用。
 
 ## 特性
 
@@ -89,20 +89,21 @@ pnpm preview
 
 ## 致谢
 
-感谢以下优秀项目对本项目提供灵感：
+感谢以下优秀项目对本项目提供灵感/帮助：
 
 - [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) 提供了设计方面的灵感
 - [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) 提供了业务逻辑方面的灵感
+- [react-antd-admin](https://github.com/condorheroblog/react-antd-admin) 提供了现成项目框架的帮助
 
-## Star History
+<!-- ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Ducr/react-antd-admin&type=Date)](https://star-history.com/#Ducr/react-antd-admin&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Ducr/react-antd-admin&type=Date)](https://star-history.com/#Ducr/react-antd-admin&Date) -->
 
-## 赞助
+<!-- ## 赞助
 
 如果此项目对你有帮助，可以请作者吃顿外卖。
 
-![Sponsor](https://camo.githubusercontent.com/b61a54a08ff3a1392f191016d6c0d7537559bb4fa19ae1d27fadfd1de5796289/68747470733a2f2f636f6e646f726865726f626c6f672e6769746875622e696f2f72656163742d616e74642d61646d696e2f646f63732f73706f6e736f722e706e67)
+![Sponsor](https://github.com/Ducr/react-antd-admin/blob/main/docs/public/sponsor.png?raw=true) -->
 
 ## License
 

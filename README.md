@@ -15,7 +15,7 @@
 
 ## Introduction
 
-react-antd-admin is a middle and back-office solution based on React Hooks, Vite, and TypeScript. It aims to help you quickly build enterprise-level middle and back-office projects, with no additional configuration required, ready to use out of the box.
+Secondary development based on the react-antd-admin backend management system. react-antd-admin is a middle and back-office solution based on React Hooks, Vite, and TypeScript. It aims to help you quickly build enterprise-level middle and back-office projects, with no additional configuration required, ready to use out of the box.
 
 ## Features
 
@@ -89,20 +89,21 @@ pnpm preview
 
 ## Credits
 
-Thanks to the following excellent projects for providing inspiration:
+Thanks to the following excellent projects for providing inspiration or assistance:
 
 - [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)  for design inspiration
 - [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) for business logic inspiration
+- [react-antd-admin](https://github.com/condorheroblog/react-antd-admin) for Existing project framework assistance
 
-## Star History
+<!-- ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Ducr/react-antd-admin&type=Date)](https://star-history.com/#Ducr/react-antd-admin&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Ducr/react-antd-admin&type=Date)](https://star-history.com/#Ducr/react-antd-admin&Date) -->
 
-## Sponsor
+<!-- ## Sponsor
 
 If this project was helpful to you, you can buy the author a takeaway meal.
 
-![Sponsor](https://camo.githubusercontent.com/b61a54a08ff3a1392f191016d6c0d7537559bb4fa19ae1d27fadfd1de5796289/68747470733a2f2f636f6e646f726865726f626c6f672e6769746875622e696f2f72656163742d616e74642d61646d696e2f646f63732f73706f6e736f722e706e67)
+![Sponsor](https://github.com/Ducr/react-antd-admin/blob/main/docs/public/sponsor.png?raw=true) -->
 
 ## License
 
