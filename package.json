@@ -20,7 +20,7 @@
 	},
 	"scripts": {
 		"dev": "vite --host",
-		"build": "NODE_OPTIONS=--max-old-space-size=8192 vite build",
+		"build": "cross-env NODE_OPTIONS=--max-old-space-size=8192 vite build",
 		"preview": "vite preview",
 		"typecheck": "tsc --noEmit",
 		"analyzer": "vite-bundle-visualizer --output analyzer/stats.html",
@@ -30,7 +30,7 @@
 		"prepare": "simple-git-hooks",
 		"pnpm:install": "pnpm install",
 		"npm-check": "taze major -lrw",
-		"check-circular-dependency": "NODE_OPTIONS=--max-old-space-size=8192 ds src --output circular-deps-$(date +%Y%m%d-%H%M).json",
+		"check-circular-dependency": "cross-env NODE_OPTIONS=--max-old-space-size=8192 ds src --output circular-deps-$(date +%Y%m%d-%H%M).json",
 		"test": "vitest"
 	},
 	"dependencies": {
@@ -90,6 +90,7 @@
 		"circular-dependency-scanner": "^2.3.0",
 		"clsx": "^2.1.1",
 		"code-inspector-plugin": "^0.20.6",
+		"cross-env": "^10.1.0",
 		"eslint": "^9.22.0",
 		"eslint-plugin-react-hooks": "^5.2.0",
 		"eslint-plugin-react-refresh": "^0.4.19",
