@@ -4,7 +4,7 @@
 	"version": "0.0.0",
 	"private": true,
 	"packageManager": "pnpm@10.6.4",
-	"description": "React Hooks + TypeScript + Ant Design = react-antd-admin",
+	"description": "基于react-antd-admin后台管理系统的二次开发。React Hooks + TypeScript + Ant Design = react-antd-admin",
 	"author": "Ducr",
 	"license": "MIT",
 	"homepage": "https://github.com/Ducr/react-antd-admin/blob/main/README.md",
