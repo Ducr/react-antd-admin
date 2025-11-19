@@ -4,7 +4,7 @@
 
 我多年从事前端开发，主要使用 React 框架开发单页面应用。但是每次启动项目想要找一个合适的框架，确实难上加难，大部分框架都是开发者自己学习 React 搭建的，要么就是不维护了，Vue.js 社区的框架百花齐放，React 社区的框架寥寥无几，如同沙漠。但是开发中后台系统 antd 仍是当仁不让的首选，所以使用 React 开发则是更好的选择。
 
-此时，就需要一个框架集成路由、状态管理、权限管理、代码格式化等基础功能，开箱即用，而不是从头开始搭建，于是基于本人的开发经验并借鉴社区优秀框架，开发了 react-antd-admin。
+此时，就需要一个框架集成路由、状态管理、权限管理、代码格式化等基础功能，开箱即用，而不是从头开始搭建，于是基于本人的开发经验并借鉴社区优秀框架[react-antd-admin](https://github.com/condorheroblog/react-antd-admin)，二次开发了 react-antd-admin。
 
 ## 为什么不选择 UmiJS? {#why-not-umijs}
 
@@ -18,6 +18,7 @@ UmiJS 是一个非常优秀的框架，但是它太重了，自己封装了很�
 
 1. [vben-admin](https://github.com/anncwb/vben-admin)
 2. [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
+3. [react-antd-admin](https://github.com/condorheroblog/react-antd-admin)
 
 ## 其他优秀项目
 
