@@ -26,6 +26,9 @@ const isDev = process.env.NODE_ENV === "development";
 export default defineConfig({
 
 	base: isDev ? "/" : "/react-antd-admin/",
+	esbuild: {
+		target: "safari14",
+	},
 	plugins: [
 		tailwindcss(),
 		react(),
@@ -123,10 +126,16 @@ export default defineConfig({
 			// },
 		},
 	},
+	optimizeDeps: {
+		esbuildOptions: {
+			target: "safari14",
+		},
+	},
 	define: {
 		__APP_INFO__: JSON.stringify(__APP_INFO__),
 	},
 	build: {
+		target: ["es2020", "safari14"],
 		outDir: "build",
 		sourcemap: false,
 		rollupOptions: {

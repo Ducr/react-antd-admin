@@ -1,3 +1,4 @@
+import { safariPolyfillsApplied } from "#src/@polyfills";
 import { TanstackQuery } from "#src/components/tanstack-query";
 import { setupI18n } from "#src/locales";
 import { setupLoading } from "#src/plugins/loading";
@@ -7,6 +8,8 @@ import { createRoot } from "react-dom/client";
 
 import App from "./app";
 import "./styles/index.css";
+
+void safariPolyfillsApplied;
 
 async function setupApp() {
 	/**
